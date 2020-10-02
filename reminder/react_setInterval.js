@@ -1,5 +1,5 @@
-// Display a random number every second using setInterval 
-// Using arrow function
+// Afficher un nombre aléatoire à l'écran chaque seconde
+// Utiliser des fonctions fléchées sans bind
 
 function ChangeNumber(props) {
     console.log("function ChangeNumber is called")
